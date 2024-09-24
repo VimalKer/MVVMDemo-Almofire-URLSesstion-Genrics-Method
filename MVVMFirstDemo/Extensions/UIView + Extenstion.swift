@@ -10,5 +10,7 @@ import UIKit
 
 extension UIView{
     
-    
+    func getview() -> String{
+        return "View"
+    }
 }
